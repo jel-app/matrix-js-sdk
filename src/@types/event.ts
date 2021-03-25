@@ -92,7 +92,7 @@ export enum MsgType {
     Video = "m.video",
 }
 
-export const RoomCreateTypeField = "m.type"; // Spaces MSC1772
+export const RoomCreateTypeField = "type"; // Spaces MSC1772
 
 export enum RoomType {
     Space = "m.space", // Spaces MSC1772
